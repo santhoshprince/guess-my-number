@@ -1,0 +1,69 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:#222;
+}
+.head h1{
+    color: blanchedalmond;
+}
+.calc-head {
+    padding: 20px 10px 20px 20px;
+}
+   
+.content h1 {
+    text-align: center;
+    padding: 20px 20px 10px 10px;
+    font-size: 110px;
+    color: white;
+    font-family: cursive;
+    border-bottom: 2px solid;
+    position: relative;
+
+}
+.content-main{
+    text-align: center;
+}
+
+.guess{
+        margin: 6% 9%;
+        padding: 7% 0%;
+        text-align: center;
+        /* font-size: 14px; */
+        background-color:#222;
+        color: white;
+}
+button{
+    margin: 0% 24%;
+    padding: 1% 4%;
+    font-size: larger;
+}
+ul{
+    margin: 118px 44px 20px 10px;
+    position: relative;
+    display: inline-grid;
+    font-size: 59px;
+    color: white;
+
+}
+.number{
+    text-align: center;
+    font-size: 66px;
+    background-color: #c1d3af;
+    width: 13%;
+    margin: 3% 42%;
+}
+.message {
+    color: aqua;
+}
+
+.score{
+    color: blue;
+}
+input{
+    font-size: 60px;
+
+}
+
+.btn-lg{
+    cursor: pointer;
+}
